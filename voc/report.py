@@ -190,6 +190,6 @@ def render(*, raw_n, dup_n, noise_n, coded, summaries, curve, ceiling, persona_i
   <div class="card"><table><thead><tr><th>议题</th><th class="num">真实条数</th><th class="num">精确率</th><th class="num">召回率</th></tr></thead><tbody>{q_rows}</tbody></table>
     <p class="muted">关键词编码可解释、改词即生效，代价是精确率：「决策状态」「定价」会被顺带提到的词误命中。编码本见 config/codebook.toml。</p></div>
 
-  <footer>由 run.py 生成 · 编码本 config/codebook.toml · 话术库 config/scripts.toml</footer>
+  <footer>由 run.py 生成 · 编码本 config/codebook.toml · 话术库 config/scripts.toml · © 2026 张文婧 (Anna Zhang) · github.com/annawzhang · MIT · 保留署名</footer>
 </div></body></html>
 """

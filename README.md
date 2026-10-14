@@ -2,6 +2,11 @@
 
 **把社媒评论区的吵吵嚷嚷，变成三样能直接用的东西：给管理层的定价 / 上市 / 传播建议，给门店的四步话术，以及一道拦住「危险话术」的发布前检查。**
 
+
+> **Copyright © 2026 张文婧 (Anna Zhang)** · [MIT License](./LICENSE) · [github.com/annawzhang](https://github.com/annawzhang)  
+> 欢迎学习与面试查阅；保留版权与许可声明。**禁止删除作者信息后冒充本人作品二次发表。** 公开内容为虚构/脱敏演示数据。
+
+
 [在线报告](https://annawzhang.github.io/voc-insight-kit/) · 纯 Python 标准库，无第三方依赖
 
 > 品牌、车型（A9 / A8 / M7）、评论与点赞全部虚构。
